@@ -1,4 +1,8 @@
 https://www.youtube.com/watch?v=sw7_aEafJJg - How to scan for open ports in python | Kali Hacking
+
+
+
+
 This Python script is designed to perform port scanning on a specified target IP address. It utilizes the socket module for network communication to check for open ports within the given IP address range.
 
 
